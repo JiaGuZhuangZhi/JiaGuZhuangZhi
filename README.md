@@ -42,14 +42,14 @@
 ### 📊 GitHub 统计
 
 <div align="center">
-  <img height="180em" src="https://camo.githubusercontent.com/api?username=JiaGuZhuangZhi&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://camo.githubusercontent.com/api/top-langs/?username=JiaGuZhuangZhi&layout=compact&theme=radical&langs_count=6" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JiaGuZhuangZhi&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiaGuZhuangZhi&layout=compact&theme=radical&langs_count=6" />
 </div>
 
 ### 💻 最常用的语言
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,xml,gradle,git,github" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,gradle,git,github" />
 </div>
 
 ### 🎯 开发理念
