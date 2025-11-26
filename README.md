@@ -42,8 +42,8 @@
 ### 📊 GitHub 统计
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JiaGuZhuangZhi&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiaGuZhuangZhi&layout=compact&theme=radical&langs_count=6" />
+  <img height="180em" src="https://camo.githubusercontent.com/api?username=JiaGuZhuangZhi&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://camo.githubusercontent.com/api/top-langs/?username=JiaGuZhuangZhi&layout=compact&theme=radical&langs_count=6" />
 </div>
 
 ### 💻 最常用的语言
@@ -54,11 +54,7 @@
 
 ### 🎯 开发理念
 
-> “**Make Color Great Again.**”  
-> —— 致敬每一个不甘于默认界面的灵魂。
-
 - 坚信 **UI 应服务于体验**，而非干扰  
-- 拒绝 C++ 入门（更推荐从兴趣出发）  
 - 喜欢用 **声明式方式** 构建界面（讨厌 XAML 😅）  
 - 目标：让 Android 系统更自由、更美、更“我”
 
