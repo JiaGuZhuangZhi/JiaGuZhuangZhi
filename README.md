@@ -19,7 +19,9 @@
   </a>
   <br>
   🔧 正在用 Kotlin + Xposed 打造更美的 ColorOS  
+  <br>
   🎨 偏爱声明式 UI、背景模糊、沉浸体验  
+  <br>
   💡 代码即艺术，简洁即优雅
 </div>
 
