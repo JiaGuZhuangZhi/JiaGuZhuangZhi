@@ -6,8 +6,6 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=6E56CF&center=true&vCenter=true&width=600&lines=Android+UI+Tinkerer;Kotlin+Enthusiast;Xposed+Module+Developer;Make+ColorOS+Great+Again" alt="Typing SVG" />
-  
-  <br><br>
 
   <a href="https://github.com/JiaGuZhuangZhi/MCGA">
     <img src="https://img.shields.io/badge/MCGA-LSPosed%20Module-FF6F61?style=for-the-badge&logo=android&logoColor=white" />
