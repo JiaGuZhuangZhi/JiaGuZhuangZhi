@@ -17,9 +17,7 @@
   <a href="https://github.com/Uotan-Dev/UOTAN-for-Android">
     <img src="https://img.shields.io/badge/UOTAN%20App-Forum%20Client-5865F2?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
-  <br><br>
-  
+  <br>
   🔧 正在用 Kotlin + Xposed 打造更美的 ColorOS  
   🎨 偏爱声明式 UI、背景模糊、沉浸体验  
   💡 代码即艺术，简洁即优雅
